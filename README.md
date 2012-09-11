@@ -1,4 +1,3 @@
 playground
 ==========
-
-Playground for fun
+playground for fun
